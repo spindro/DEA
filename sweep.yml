@@ -1,0 +1,23 @@
+program: dea.py
+method: grid
+metric:
+  name: ACC
+  goal: maximize
+
+parameters: 
+  
+  dataset:
+    values: ["citeseer", "cora", "pubmed", "dblp", "fb"]
+  
+  lambda: 
+    values: [0.5, 0.1, 0.05, 0.01]
+  
+  lr_ed:
+    values: [0.005, 0.001, 0.0005]
+  
+  lr_conv:
+   values: [0.005, 0.001, 0.0005]
+
+  dyadic:
+    values: ["mixed", "group"]
+  

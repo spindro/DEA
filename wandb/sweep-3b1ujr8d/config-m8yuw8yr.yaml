@@ -1,0 +1,12 @@
+wandb_version: 1
+
+dataset:
+  value: citeseer
+dyadic:
+  value: mixed
+lambda:
+  value: 0.5
+lr_conv:
+  value: 0.005
+lr_ed:
+  value: 0.0005

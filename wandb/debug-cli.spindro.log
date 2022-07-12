@@ -1,0 +1,67 @@
+2022-07-12 15:56:51 INFO Running runs: []
+2022-07-12 15:56:52 INFO Agent received command: run
+2022-07-12 15:56:52 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.005
+2022-07-12 15:56:52 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.005
+2022-07-12 15:56:57 INFO Running runs: ['7fyg49ck']
+2022-07-12 15:56:57 INFO Cleaning up finished run: 7fyg49ck
+2022-07-12 15:56:57 INFO Agent received command: run
+2022-07-12 15:56:57 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.001
+2022-07-12 15:56:57 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.001
+2022-07-12 15:57:02 INFO Running runs: ['8the15aj']
+2022-07-12 15:57:02 INFO Cleaning up finished run: 8the15aj
+2022-07-12 15:57:03 INFO Agent received command: run
+2022-07-12 15:57:03 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.0005
+2022-07-12 15:57:03 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.0005
+2022-07-12 15:59:03 INFO Running runs: []
+2022-07-12 15:59:03 INFO Agent received command: run
+2022-07-12 15:59:03 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.005
+2022-07-12 15:59:03 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.005
+2022-07-12 15:59:08 INFO Running runs: ['8mjhstdk']
+2022-07-12 15:59:08 INFO Cleaning up finished run: 8mjhstdk
+2022-07-12 15:59:09 INFO Agent received command: run
+2022-07-12 15:59:09 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.001
+2022-07-12 15:59:09 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.001
+2022-07-12 16:10:02 INFO Running runs: []
+2022-07-12 16:10:02 INFO Agent received command: run
+2022-07-12 16:10:02 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.005
+2022-07-12 16:10:02 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.005
+2022-07-12 16:10:07 INFO Running runs: ['rwpppv3n']
+2022-07-12 16:10:07 INFO Cleaning up finished run: rwpppv3n
+2022-07-12 16:10:07 INFO Agent received command: run
+2022-07-12 16:10:07 INFO Agent starting run with config:
+	dataset: citeseer
+	dyadic: mixed
+	lambda: 0.5
+	lr_conv: 0.005
+	lr_ed: 0.001
+2022-07-12 16:10:07 INFO About to run command: /usr/bin/env python dea.py --dataset=citeseer --dyadic=mixed --lambda=0.5 --lr_conv=0.005 --lr_ed=0.001
